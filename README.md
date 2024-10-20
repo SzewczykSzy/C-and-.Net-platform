@@ -1,2 +1,2 @@
-# C-and-.Net-platform
+# C#-and-.Net-platform
 University course
