@@ -1,0 +1,10 @@
+C:\Users\szyme\source\repos\ProjektLab2\ApLab2\bin\Debug\ApLab2.exe.config
+C:\Users\szyme\source\repos\ProjektLab2\ApLab2\bin\Debug\ApLab2.exe
+C:\Users\szyme\source\repos\ProjektLab2\ApLab2\bin\Debug\ApLab2.pdb
+C:\Users\szyme\source\repos\ProjektLab2\ApLab2\obj\Debug\ApLab2.csproj.AssemblyReference.cache
+C:\Users\szyme\source\repos\ProjektLab2\ApLab2\obj\Debug\ApLab2.csproj.CoreCompileInputs.cache
+C:\Users\szyme\source\repos\ProjektLab2\ApLab2\obj\Debug\ApLab2.exe
+C:\Users\szyme\source\repos\ProjektLab2\ApLab2\obj\Debug\ApLab2.pdb
+C:\Users\szyme\source\repos\ProjektLab2\ApLab2\bin\Debug\ClassLibrary1.dll
+C:\Users\szyme\source\repos\ProjektLab2\ApLab2\bin\Debug\ClassLibrary1.pdb
+C:\Users\szyme\source\repos\ProjektLab2\ApLab2\obj\Debug\ApLab2.csproj.Up2Date

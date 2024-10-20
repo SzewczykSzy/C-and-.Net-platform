@@ -1,0 +1,7 @@
+C:\Users\szyme\source\repos\Lab3\cw_8\bin\Debug\cw_8.exe.config
+C:\Users\szyme\source\repos\Lab3\cw_8\bin\Debug\cw_8.exe
+C:\Users\szyme\source\repos\Lab3\cw_8\bin\Debug\cw_8.pdb
+C:\Users\szyme\source\repos\Lab3\cw_8\obj\Debug\cw_8.csproj.AssemblyReference.cache
+C:\Users\szyme\source\repos\Lab3\cw_8\obj\Debug\cw_8.csproj.CoreCompileInputs.cache
+C:\Users\szyme\source\repos\Lab3\cw_8\obj\Debug\cw_8.exe
+C:\Users\szyme\source\repos\Lab3\cw_8\obj\Debug\cw_8.pdb

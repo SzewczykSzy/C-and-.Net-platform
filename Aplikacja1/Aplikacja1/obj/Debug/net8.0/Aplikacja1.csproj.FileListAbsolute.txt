@@ -1,0 +1,14 @@
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\bin\Debug\net8.0\Aplikacja1.exe
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\bin\Debug\net8.0\Aplikacja1.deps.json
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\bin\Debug\net8.0\Aplikacja1.runtimeconfig.json
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\bin\Debug\net8.0\Aplikacja1.dll
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\bin\Debug\net8.0\Aplikacja1.pdb
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\obj\Debug\net8.0\Aplikacja1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\obj\Debug\net8.0\Aplikacja1.AssemblyInfoInputs.cache
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\obj\Debug\net8.0\Aplikacja1.AssemblyInfo.cs
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\obj\Debug\net8.0\Aplikacja1.csproj.CoreCompileInputs.cache
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\obj\Debug\net8.0\Aplikacja1.dll
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\obj\Debug\net8.0\refint\Aplikacja1.dll
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\obj\Debug\net8.0\Aplikacja1.pdb
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\obj\Debug\net8.0\Aplikacja1.genruntimeconfig.cache
+C:\Users\szyme\source\repos\Aplikacja1\Aplikacja1\obj\Debug\net8.0\ref\Aplikacja1.dll

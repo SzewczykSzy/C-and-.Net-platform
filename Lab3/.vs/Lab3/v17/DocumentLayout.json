@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szyme\\source\\repos\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAC0C16-420B-4195-BC48-D37597C683A4}|cw_9\\cw_9.csproj|c:\\users\\szyme\\source\\repos\\lab3\\cw_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAC0C16-420B-4195-BC48-D37597C683A4}|cw_9\\cw_9.csproj|solutionrelative:cw_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AEECD8-F7FF-4B4B-92BD-24A58D7B49D6}|cw_8\\cw_8.csproj|c:\\users\\szyme\\source\\repos\\lab3\\cw_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AEECD8-F7FF-4B4B-92BD-24A58D7B49D6}|cw_8\\cw_8.csproj|solutionrelative:cw_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E78863-7449-434C-A556-B201B0D23619}|cw_7\\cw_7.csproj|c:\\users\\szyme\\source\\repos\\lab3\\cw_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E78863-7449-434C-A556-B201B0D23619}|cw_7\\cw_7.csproj|solutionrelative:cw_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6CED3-1772-4EC7-8562-CEBB2DCE2875}|cw_6\\cw_6.csproj|c:\\users\\szyme\\source\\repos\\lab3\\cw_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB6CED3-1772-4EC7-8562-CEBB2DCE2875}|cw_6\\cw_6.csproj|solutionrelative:cw_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24F1764-E1EF-48DE-9C99-3F1818CA3E00}|cw_5\\cw_5.csproj|c:\\users\\szyme\\source\\repos\\lab3\\cw_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24F1764-E1EF-48DE-9C99-3F1818CA3E00}|cw_5\\cw_5.csproj|solutionrelative:cw_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BD1391-1DDD-498E-A895-71313CA9E1C7}|cw_4\\cw_4.csproj|c:\\users\\szyme\\source\\repos\\lab3\\cw_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BD1391-1DDD-498E-A895-71313CA9E1C7}|cw_4\\cw_4.csproj|solutionrelative:cw_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDAEB61-8B1E-49EA-BADC-DAFA249B01E6}|cw_3\\cw_3.csproj|c:\\users\\szyme\\source\\repos\\lab3\\cw_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDAEB61-8B1E-49EA-BADC-DAFA249B01E6}|cw_3\\cw_3.csproj|solutionrelative:cw_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0161C87F-95D4-4B52-9505-27AB7D88A174}|cw_2\\cw_2.csproj|c:\\users\\szyme\\source\\repos\\lab3\\cw_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0161C87F-95D4-4B52-9505-27AB7D88A174}|cw_2\\cw_2.csproj|solutionrelative:cw_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F33E115-F1E1-45E5-A763-70D2ABBFD2E1}|cw_1\\cw_1.csproj|c:\\users\\szyme\\source\\repos\\lab3\\cw_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F33E115-F1E1-45E5-A763-70D2ABBFD2E1}|cw_1\\cw_1.csproj|solutionrelative:cw_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_9\\Program.cs",
+              "RelativeDocumentMoniker": "cw_9\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_9\\Program.cs",
+              "RelativeToolTip": "cw_9\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:45:42.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_8\\Program.cs",
+              "RelativeDocumentMoniker": "cw_8\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_8\\Program.cs",
+              "RelativeToolTip": "cw_8\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswDAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:18:09.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_7\\Program.cs",
+              "RelativeDocumentMoniker": "cw_7\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_7\\Program.cs",
+              "RelativeToolTip": "cw_7\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:45:22.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_6\\Program.cs",
+              "RelativeDocumentMoniker": "cw_6\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_6\\Program.cs",
+              "RelativeToolTip": "cw_6\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:37:47.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_5\\Program.cs",
+              "RelativeDocumentMoniker": "cw_5\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_5\\Program.cs",
+              "RelativeToolTip": "cw_5\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:22:40.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_4\\Program.cs",
+              "RelativeDocumentMoniker": "cw_4\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_4\\Program.cs",
+              "RelativeToolTip": "cw_4\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:08:16.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_3\\Program.cs",
+              "RelativeDocumentMoniker": "cw_3\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_3\\Program.cs",
+              "RelativeToolTip": "cw_3\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:52:18.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_2\\Program.cs",
+              "RelativeDocumentMoniker": "cw_2\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_2\\Program.cs",
+              "RelativeToolTip": "cw_2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvw4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:11:07.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_1\\Program.cs",
+              "RelativeDocumentMoniker": "cw_1\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\source\\repos\\Lab3\\cw_1\\Program.cs",
+              "RelativeToolTip": "cw_1\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:43:26.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

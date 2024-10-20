@@ -1,0 +1,194 @@
+Cwiczenie 1, AssembleyInfo.cs:
+
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+[assembly: AssemblyTitle("ApLab2")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ApLab2")]
+[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+[assembly: ComVisible(false)]
+
+[assembly: Guid("263a9ee8-6215-4a19-a463-435fa13a6c77")]
+
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+
+
+
+
+
+
+
+Cwiczenie 2, podpunkt 7, MANIFEST ClassLibrary1.dll:
+
+// Metadata version: v4.0.30319
+.assembly extern mscorlib
+{
+  .publickeytoken = (B7 7A 5C 56 19 34 E0 89 )                         // .z\V.4..
+  .ver 4:0:0:0
+}
+.assembly ClassLibrary1
+{
+  .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilationRelaxationsAttribute::.ctor(int32) = ( 01 00 08 00 00 00 00 00 ) 
+  .custom instance void [mscorlib]System.Runtime.CompilerServices.RuntimeCompatibilityAttribute::.ctor() = ( 01 00 01 00 54 02 16 57 72 61 70 4E 6F 6E 45 78   // ....T..WrapNonEx
+                                                                                                             63 65 70 74 69 6F 6E 54 68 72 6F 77 73 01 )       // ceptionThrows.
+
+  // --- The following custom attribute is added automatically, do not uncomment -------
+  //  .custom instance void [mscorlib]System.Diagnostics.DebuggableAttribute::.ctor(valuetype [mscorlib]System.Diagnostics.DebuggableAttribute/DebuggingModes) = ( 01 00 07 01 00 00 00 00 ) 
+
+  .custom instance void [mscorlib]System.Reflection.AssemblyTitleAttribute::.ctor(string) = ( 01 00 0D 43 6C 61 73 73 4C 69 62 72 61 72 79 31   // ...ClassLibrary1
+                                                                                              00 00 ) 
+  .custom instance void [mscorlib]System.Reflection.AssemblyDescriptionAttribute::.ctor(string) = ( 01 00 00 00 00 ) 
+  .custom instance void [mscorlib]System.Reflection.AssemblyConfigurationAttribute::.ctor(string) = ( 01 00 00 00 00 ) 
+  .custom instance void [mscorlib]System.Reflection.AssemblyCompanyAttribute::.ctor(string) = ( 01 00 00 00 00 ) 
+  .custom instance void [mscorlib]System.Reflection.AssemblyProductAttribute::.ctor(string) = ( 01 00 0D 43 6C 61 73 73 4C 69 62 72 61 72 79 31   // ...ClassLibrary1
+                                                                                                00 00 ) 
+  .custom instance void [mscorlib]System.Reflection.AssemblyCopyrightAttribute::.ctor(string) = ( 01 00 12 43 6F 70 79 72 69 67 68 74 20 C2 A9 20   // ...Copyright .. 
+                                                                                                  20 32 30 32 34 00 00 )                            //  2024..
+  .custom instance void [mscorlib]System.Reflection.AssemblyTrademarkAttribute::.ctor(string) = ( 01 00 00 00 00 ) 
+  .custom instance void [mscorlib]System.Runtime.InteropServices.ComVisibleAttribute::.ctor(bool) = ( 01 00 00 00 00 ) 
+  .custom instance void [mscorlib]System.Runtime.InteropServices.GuidAttribute::.ctor(string) = ( 01 00 24 33 36 61 31 33 36 37 34 2D 66 32 66 66   // ..$36a13674-f2ff
+                                                                                                  2D 34 66 31 34 2D 61 37 32 62 2D 36 32 63 34 38   // -4f14-a72b-62c48
+                                                                                                  63 37 30 38 30 61 61 00 00 )                      // c7080aa..
+  .custom instance void [mscorlib]System.Reflection.AssemblyFileVersionAttribute::.ctor(string) = ( 01 00 07 31 2E 30 2E 30 2E 30 00 00 )             // ...1.0.0.0..
+  .custom instance void [mscorlib]System.Runtime.Versioning.TargetFrameworkAttribute::.ctor(string) = ( 01 00 1C 2E 4E 45 54 46 72 61 6D 65 77 6F 72 6B   // ....NETFramework
+                                                                                                        2C 56 65 72 73 69 6F 6E 3D 76 34 2E 38 2E 31 01   // ,Version=v4.8.1.
+                                                                                                        00 54 0E 14 46 72 61 6D 65 77 6F 72 6B 44 69 73   // .T..FrameworkDis
+                                                                                                        70 6C 61 79 4E 61 6D 65 14 2E 4E 45 54 20 46 72   // playName..NET Fr
+                                                                                                        61 6D 65 77 6F 72 6B 20 34 2E 38 2E 31 )          // amework 4.8.1
+  .hash algorithm 0x00008004
+  .ver 1:0:0:0
+}
+.module ClassLibrary1.dll
+// MVID: {7E8496F6-E25D-4ABF-8FBD-7EF02D2F7F32}
+.imagebase 0x10000000
+.file alignment 0x00000200
+.stackreserve 0x00100000
+.subsystem 0x0003       // WINDOWS_CUI
+.corflags 0x00000001    //  ILONLY
+// Image base: 0x088C0000
+
+
+
+
+
+
+Ćwiczenie 2, podpunkt 14:
+Biblioteka została dołączona za pomocą kodu:
+
+.assembly extern ClassLibrary1
+{
+  .ver 1:0:0:0
+}
+
+
+
+
+
+
+Cwiczenie 3, podpunkt 6:
+obj\Debug\ClassLibrary1.dll does not represent a strongly named assembly
+
+
+
+
+Cwiczenie 3, podpunkt 10:
+Do manifestu zostało dodane pole "publickey":
+  .publickey = (00 24 00 00 04 80 00 00 94 00 00 00 06 02 00 00   // .$..............
+                00 24 00 00 52 53 41 31 00 04 00 00 01 00 01 00   // .$..RSA1........
+                C5 A7 8A 4D 4D D3 56 A1 A9 E6 BC 72 28 12 5C B5   // ...MM.V....r(.\.
+                6B 25 5E 36 51 E2 AB B2 A3 A5 32 88 AC 74 DA DF   // k%^6Q.....2..t..
+                4F 6A 18 6D 57 3D DB D2 E6 DD A3 1F 43 02 57 0B   // Oj.mW=......C.W.
+                53 D9 C1 DF D7 E9 47 19 26 1C B0 2F 2E 73 B3 2B   // S.....G.&../.s.+
+                7F 39 CD AF 62 81 68 61 36 51 78 9A 6C C5 2C 2C   // .9..b.ha6Qx.l.,,
+                3C 91 C4 19 6C 67 D2 4A 7F 33 04 D7 1C CF 36 23   // <...lg.J.3....6#
+                A8 2E CB FB EF 5D 91 7B F1 CC C9 6C FB 52 7D 63   // .....].{...l.R}c
+                63 FF D1 EF 85 48 FD 65 FE 9F 42 2C 04 81 67 A2 ) // c....H.e..B,..g.
+
+
+
+
+
+Cwiczenie 3, podpunkt 11:
+Wyjątek nieobsłużony: System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'ClassLibrary1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w ApLab2.Program.Main(String[] args)
+
+
+
+
+
+Cwiczenie 3, podpunkt 12:
+Verification entry added for assembly 'ClassLibrary1,1BF94130A5456BF4'
+
+Wyjątek nieobsłużony: System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'ClassLibrary1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w ApLab2.Program.Main(String[] args)
+
+
+Po pominięciu weryfikacji/ podpisaniu ddl'a w pełni i włączeniu weryfikacji, aplikacja działa normalnie.
+
+
+
+
+
+
+Cwiczenie 4, podpunkt 10.
+Wyjątek nieobsłużony: System.IO.FileLoadException: Nie można załadować pliku lub zestawu 'ClassLibrary1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1bf94130a5456bf4' lub jednej z jego zależności. Zlokalizowana definicja manifestu zestawu nie odpowiada odwołaniu do zestawu. (Wyjątek od HRESULT: 0x80131040)
+   w ApLab2.Program.Main(String[] args)
+
+po odwrocie:
+Wyjątek nieobsłużony: System.IO.FileLoadException: Nie można załadować pliku lub zestawu 'ClassLibrary1, Version=1.1.0.0, Culture=neutral, PublicKeyToken=1bf94130a5456bf4' lub jednej z jego zależności. Zlokalizowana definicja manifestu zestawu nie odpowiada odwołaniu do zestawu. (Wyjątek od HRESULT: 0x80131040)
+   w ApLab2.Program.Main(String[] args)
+
+
+
+
+
+
+Cwiczenie 4, podpunkt 12.
+Różnią się jedynie wersją biblioteki
+Manifest Z10:
+.assembly extern ClassLibrary1
+{
+  .publickeytoken = (1B F9 41 30 A5 45 6B F4 )                         // ..A0.Ek.
+  .ver 1:0:0:0
+}
+
+Manifest Z11:
+.assembly extern ClassLibrary1
+{
+  .publickeytoken = (1B F9 41 30 A5 45 6B F4 )                         // ..A0.Ek.
+  .ver 1:1:0:0
+}
+
+
+
+
+
+
+Cwiczenie 5, podpunkt 3.
+Wyjątek nieobsłużony: System.IO.FileNotFoundException: Nie można załadować pliku lub zestawu 'ClassLibrary1, Version=1.1.0.0, Culture=neutral, PublicKeyToken=1bf94130a5456bf4' lub jednej z jego zależności. Nie można odnaleźć określonego pliku.
+   w ApLab2.Program.Main(String[] args)
+
+
+
+
+
+Cwiczenie 5, podpunkt 5.
+Biblioteki nie są widoczne, ale można z nich korzystać - Aplikacje ApLab2.exe działają poprawnie.
+
+
+
+
+Cwiczenie 6, podpunkt 5.
+Po postąpieniu zgodnie z instrukcją, uruchomienie aplikacji w katalogu Z11 skutkuje wynikiem:
+Wersja: 1.0.0.0
+
+z powodu kodu:
+<bindingRedirect oldVersion="1.1.0.0" newVersion="1.0.0.0"/>
