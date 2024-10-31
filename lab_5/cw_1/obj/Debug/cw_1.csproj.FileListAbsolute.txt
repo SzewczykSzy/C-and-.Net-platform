@@ -1,0 +1,7 @@
+C:\Users\szyme\source\repos\lab_5\cw_1\bin\Debug\cw_1.exe.config
+C:\Users\szyme\source\repos\lab_5\cw_1\bin\Debug\cw_1.exe
+C:\Users\szyme\source\repos\lab_5\cw_1\bin\Debug\cw_1.pdb
+C:\Users\szyme\source\repos\lab_5\cw_1\obj\Debug\cw_1.csproj.AssemblyReference.cache
+C:\Users\szyme\source\repos\lab_5\cw_1\obj\Debug\cw_1.csproj.CoreCompileInputs.cache
+C:\Users\szyme\source\repos\lab_5\cw_1\obj\Debug\cw_1.exe
+C:\Users\szyme\source\repos\lab_5\cw_1\obj\Debug\cw_1.pdb
