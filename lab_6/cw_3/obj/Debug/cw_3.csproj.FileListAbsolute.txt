@@ -1,0 +1,7 @@
+C:\Users\szyme\source\repos\lab_6\cw_3\bin\Debug\cw_3.exe.config
+C:\Users\szyme\source\repos\lab_6\cw_3\bin\Debug\cw_3.exe
+C:\Users\szyme\source\repos\lab_6\cw_3\bin\Debug\cw_3.pdb
+C:\Users\szyme\source\repos\lab_6\cw_3\obj\Debug\cw_3.csproj.AssemblyReference.cache
+C:\Users\szyme\source\repos\lab_6\cw_3\obj\Debug\cw_3.csproj.CoreCompileInputs.cache
+C:\Users\szyme\source\repos\lab_6\cw_3\obj\Debug\cw_3.exe
+C:\Users\szyme\source\repos\lab_6\cw_3\obj\Debug\cw_3.pdb
