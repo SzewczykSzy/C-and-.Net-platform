@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szyme\\source\\repos\\choinka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD88EF4-A1A3-49E7-956B-A97A176F7794}|choinka\\choinka.csproj|c:\\users\\szyme\\source\\repos\\choinka\\choinka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD88EF4-A1A3-49E7-956B-A97A176F7794}|choinka\\choinka.csproj|solutionrelative:choinka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\source\\repos\\choinka\\choinka\\Program.cs",
+              "RelativeDocumentMoniker": "choinka\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\source\\repos\\choinka\\choinka\\Program.cs",
+              "RelativeToolTip": "choinka\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:36:19.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

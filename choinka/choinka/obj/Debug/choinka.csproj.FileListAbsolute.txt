@@ -1,0 +1,7 @@
+C:\Users\szyme\source\repos\choinka\choinka\bin\Debug\choinka.exe.config
+C:\Users\szyme\source\repos\choinka\choinka\bin\Debug\choinka.exe
+C:\Users\szyme\source\repos\choinka\choinka\bin\Debug\choinka.pdb
+C:\Users\szyme\source\repos\choinka\choinka\obj\Debug\choinka.csproj.AssemblyReference.cache
+C:\Users\szyme\source\repos\choinka\choinka\obj\Debug\choinka.csproj.CoreCompileInputs.cache
+C:\Users\szyme\source\repos\choinka\choinka\obj\Debug\choinka.exe
+C:\Users\szyme\source\repos\choinka\choinka\obj\Debug\choinka.pdb
